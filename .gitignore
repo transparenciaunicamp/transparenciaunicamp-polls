@@ -1,0 +1,27 @@
+# Caches, compiled, compressed, logs and databases
+*.db
+*.sqlite3
+*.pyc
+*.log
+
+# dev tools
+.env
+.floo
+.flooignore
+.idea
+.python-version
+.vagrant/
+.ropeproject
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashesa
+ehthumbs.db
+Thumbs.db
+*.*~
+*~
